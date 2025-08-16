@@ -1,4 +1,4 @@
-'''Beginner Level Coding (Python OOP)-->Qn.1) To-Do list (Task manager)'''
+'''Beginner Level Coding (Python OOP)-->To-Do list (Task manager)'''
 
 from datetime import datetime as dt
 
@@ -88,4 +88,5 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
+
 
